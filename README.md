@@ -4,7 +4,6 @@ Este repositório contém minhas atividades de Java para a disciplina de Program
 
 ## Estrutura
 
-- **Atividade01-POO** →
-- **Atividade02-POO** → 
-- **Atividade03-POO** → 
-- **Atividade04-POO** →
+- **Atividade06-Herança**
+- **Atividade07-Agregação e Composição** 
+- **Atividade08-Polimorfismo** 
