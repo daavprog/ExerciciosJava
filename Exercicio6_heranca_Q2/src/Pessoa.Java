@@ -1,3 +1,14 @@
+public class Pessoa {
+    // Atributos privados (encapsulados)
+    private String nome;
+    private String endereco;
+    private String telefone;
+
+    // Construtor Padrão (Vazio)
+    // Obrigatório pelo enunciado
+    public Pessoa() {
+    }
+
 // Construtor 2: Cadastro Rápido (Só Nome e Telefone)
     public Pessoa(String nome, String telefone) {
         this.nome = nome;
@@ -39,3 +50,4 @@
     public String toString() {
         return "Dados: " + nome + " | " + endereco + " | " + telefone;
     }
+}
